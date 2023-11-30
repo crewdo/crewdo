@@ -1,5 +1,5 @@
-<h3 align="center">Hi, I'm crewdo 👋</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Vietnam</h3>
+<h3>Hi, I'm crewdo 👋</h1>
+<h3>I'm a passionate Full Stack Developer from Vietnam</h3>
 
 ##😍 About Me
 
