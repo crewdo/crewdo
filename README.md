@@ -10,4 +10,4 @@
 
 <br/>
 
-[![crewdo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=crewdo&bg_color=000000&color=00c4b3&line=00c4b3&point=00c4b3&area=true&hide_border=true)](https://github.com/crewdo/github-readme-activity-graph)
+<!-- [![crewdo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=crewdo&bg_color=000000&color=00c4b3&line=00c4b3&point=00c4b3&area=true&hide_border=true)](https://github.com/crewdo/github-readme-activity-graph) --!>
