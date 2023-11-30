@@ -8,9 +8,7 @@
 - 🧑‍💻 Coding for more than 7 years
 - ⚡ Fun fact **I am an engineer who codes with a PS5 Controller 😂.**
 
-<p align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=crewdo)](https://git.io/streak-stats)
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&hide_border=true&border_radius=15&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ##😍 My Github Stats
 
