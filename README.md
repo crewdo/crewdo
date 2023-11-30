@@ -3,7 +3,7 @@
 
 ### 😍 About Me
 
-- 🎓 Graduated from the University of Information Technology VNUHCM
+- 🎓 Graduated from University of Information Technology VNUHCM
 - 🧑‍💻 Coding for more than 7 years
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=crewdo&theme=dark&hide_border=true&border_radius=15&exclude_days=Sun%2CSat)](https://github.com/crewdo/github-readme-streak-stats)
