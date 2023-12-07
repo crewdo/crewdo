@@ -1,7 +1,7 @@
 <h3>Hi, I'm crewdo 👋</h1>
-<h4>I'm a passionate Full Stack Developer from Vietnam</h3>
+<h5>I'm a passionate Full Stack Developer from Vietnam</h5>
 
-### 😍 About Me
+### About Me
 
 - 🎓 Graduated from University of Information Technology VNUHCM
 - 🧑‍💻 Coding for more than 7 years
